@@ -85,3 +85,4 @@ It's important to note that the movie industry is ever-evolving, and staying att
 
 The movie industry is highly competitive and subject to evolving trends, so staying proactive and adaptable is crucial. Regularly revisiting and updating your analysis will help ensure its continued relevance and effectiveness in guiding decision-making for the movie studio.
 
+[Index - Jupyter Notebook.pdf](https://github.com/rizzyakoth/dsc-phase-1-project-v2-4/files/12645947/Index.-.Jupyter.Notebook.pdf)
